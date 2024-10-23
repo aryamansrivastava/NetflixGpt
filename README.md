@@ -1,9 +1,9 @@
 # NetflixGpt
  
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img width="482" alt="Screenshot" src="https://github.com/Vijaykv5/NetflixGpt/assets/94985341/384abd6a-54ca-48d9-a4dd-e6566c6fb59c">
-</div>
+</div> -->
 
 <hr>
 
@@ -42,12 +42,12 @@ To run NetflixGPT locally and start exploring its features, follow these steps:
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/yourusername/NetflixGPT.git
+   git clone https://github.com/aryamansrivastava/NetflixGpt.git
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd NetflixGPT
+   cd NetflixGpt
    
 3. **Install the required dependencies:**
 
@@ -60,19 +60,9 @@ To run NetflixGPT locally and start exploring its features, follow these steps:
    npm run dev
 
 
-  ## **Contributing**
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and ensure the code style is consistent.
-4. Test your changes thoroughly.
-5. Create a pull request with a clear description of your changes.
-
-
-
-
-
-
-
-
-
- 
+#   ## **Contributing**
+# 1. Fork the repository.
+# 2. Create a new branch for your feature or bug fix.
+# 3. Make your changes and ensure the code style is consistent.
+# 4. Test your changes thoroughly.
+# 5. Create a pull request with a clear description of your changes.
